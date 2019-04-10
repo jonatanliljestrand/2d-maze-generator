@@ -18,13 +18,13 @@ O - marks beginning of maze
 X - marks end of maze
 
 ## Execution times on dev machine:
-// With 1,76 GB RAM limit in runtime:
-// 1000 x 1000 => 5,7 seconds to generate maze
-// 1250 x 1250 => 8,76 seconds to generate maze
-// 1750 x 1750 => 18,3 seconds to generate maze
-// 1950 x 1950 => 33,8 seconds to generate maze
-// 1951 x 1951 => Out of Memory
+### With 1,76 GB RAM limit in runtime:
+1000 x 1000 => 5,7 seconds to generate maze
+1250 x 1250 => 8,76 seconds to generate maze
+1750 x 1750 => 18,3 seconds to generate maze
+1950 x 1950 => 33,8 seconds to generate maze
+1951 x 1951 => Out of Memory
 
-// With 8 GB RAM limit in runtime:
-// 2000 x 2000 => 23 seconds
-// 4000 x 4000 => 3 minutes
+### With 8 GB RAM limit in runtime:
+2000 x 2000 => 23 seconds
+4000 x 4000 => 3 minutes
